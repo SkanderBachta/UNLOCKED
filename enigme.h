@@ -1,0 +1,9 @@
+
+
+
+
+int enigmessfichier();
+int enigmeavecfichier();
+
+
+
